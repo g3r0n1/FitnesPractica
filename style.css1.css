@@ -44,7 +44,7 @@ position: absolute;
     text-decoration: none;
 }
 
-.menu a{
+.menu a:hover{
     text-decoration: underline;
 }
 
