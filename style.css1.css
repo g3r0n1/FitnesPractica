@@ -57,7 +57,7 @@ position: absolute;
 .text{
     width: 300px;
     margin: 300px;
-    text-align: justify;
+    text-align: right;
     color: white;
     float: right;
 }
