@@ -47,3 +47,15 @@ position: absolute;
 .menu a{
     text-decoration: underline;
 }
+
+.text h1{
+    font-size: 85px;
+}
+
+.text{
+    width: 300px;
+    margin: 200px;
+    text-align: justify;
+    color: chocolate;
+    float: right;
+}
