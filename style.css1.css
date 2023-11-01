@@ -54,8 +54,8 @@ position: absolute;
 
 .text{
     width: 300px;
-    margin: 300px;
-    text-align: right;
+    margin: 200px;
+    text-align: justify;
     color: white;
     float: right;
 }
