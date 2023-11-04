@@ -6,6 +6,10 @@
     font-family: 'Poppins', sans-serif;
 }
 
+.logo img{
+    width: 100px;
+    height: auto;
+}
 .logo {
     font-size: 30px;
     margin: 45px;
