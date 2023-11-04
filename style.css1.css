@@ -9,6 +9,7 @@
 .logo img{
     width: 100px;
     height: auto;
+    border-radius: 60%;
 }
 .logo {
     font-size: 30px;
